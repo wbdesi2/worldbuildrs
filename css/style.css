@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+@font-face {
+  font-family: "Almarai";
+	
+}
+
+body {
+	font-family: "Almarai",  sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+header {
+	background-color: #14100F;
+	color: #FEDE0F;
+}
+
+header h1 {
+	margin: 10px 0;
+}
+
+.minicons {
+	margin: 10px 0 0 0;
+}
+#latest {
+	margin: 0;
+	background-color: #09090a;
+}
+
+#latest h1 {
+	text-align: center;
+	color: #FFFFFF;
+	padding: 30px 0px 0px 0px;
+}
+
+hr{
+	height: 5px;
+	background-color: #000;
+}
+
+#articulo h1{
+	 color: #ED1153;
+	 margin: 10px 20px ;
+	font-size: 20;
+		
+}
+.container{
+	align-content: center;
+}
+
+.container h5{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 20px 5px;
+	text-align: center;
+}
+
+#rosa {
+	background-color: #ED1153;
+	text-align: center;
+	padding-top: 20px;
+	color: #fff;
+}
+
+#logo {
+
+}
+.negro h6{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 20px 5px;
+	text-align: center;
+}
+#Name {
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+#Name h2 {
+	font-size: 50px;
+}
+
+#Name h3 {
+	letter-spacing: 3px;
+}
+
+.azulito{
+	color: #116C78;
+}
+
+.gris{
+	color: #605D5C;
+}
+
+
+
+
+
+
+.parrafobio {
+	font-size: 190%;
+	word-spacing: 5px;
+	text-align: justify;
+}
+
+.rojito {
+	color:#9F2C4F;
+}
+
+.textleft {
+	text-align: right;
+}
+
+#obras {
+	
+}
+
+#obras {
+	padding-bottom: 3%;
+}
+
+.azulon {
+	color: #194998;
+}
+
+#Prizes {
+	margin-bottom: 7%;
+}
