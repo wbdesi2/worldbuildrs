@@ -31,7 +31,7 @@ header h1 {
 #latest h1 {
 	text-align: center;
 	color: #FFFFFF;
-	padding: 30px 0px 0px 0px;
+	padding: 10px 0px 10px 0px;
 }
 
 hr{
@@ -43,7 +43,15 @@ hr{
 	 color: #ED1153;
 	 margin: 10px 20px ;
 	font-size: 20;
-		
+}
+
+#articulo{
+	margin-bottom: 50px;
+}
+
+#articulo h3{
+	text-align: center;
+	margin-top: 1%
 }
 .container{
 	align-content: center;
@@ -64,9 +72,9 @@ hr{
 }
 
 #logo {
-
+margin-top: -70px;
 }
-.negro h6{
+.negro p{
 	background-color: #000000;
 	color: #FFFFFF;
 	padding: 20px 5px;
@@ -93,15 +101,20 @@ hr{
 	color: #605D5C;
 }
 
-
-
-
-
+.acerca p{
+	font-weight: 30px;
+	font-size: 20px;
+	text-align: justify;
+}
 
 .parrafobio {
 	font-size: 190%;
 	word-spacing: 5px;
 	text-align: justify;
+}
+
+.parrafobio p{
+	font-weight: bolder;
 }
 
 .rojito {
@@ -126,4 +139,116 @@ hr{
 
 #Prizes {
 	margin-bottom: 7%;
+}
+
+.artes{
+	text-align: center;
+}
+
+h4 {
+font-size: 16px;
+}
+
+h6 {
+font-size: 12px;
+color: #909090;
+}
+
+.artes{
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+
+.row{
+	padding-bottom: 35px;
+}
+.mini{
+	color:#fff;
+}
+h4{
+	padding-top: 15px;
+}
+
+.ACI {
+	border-radius: 20px;
+}
+
+.radiant { margin: center
+}
+
+
+.radiant h1 {
+    margin: 40px 0; 
+    display: inline-block; 
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.radiant img {
+    margin-right: 10px; 
+	margin-left: 10px;
+}
+
+.content { text-align: center;	
+}
+
+.content a { color: #ED1153;
+}
+
+.content img {  margin: 20px 0; 
+}
+
+.descrption {    
+    margin-right: 5%;  
+    margin-left: 5%;  
+	margin-bottom: 100px;
+}
+
+.descrption h2 { color: #9F2C4F ;
+	margin-top: 50px ;
+}
+
+.descrption h5 { color: #116C78;
+}
+
+.descrption p { font-size: 22px;
+	margin-bottom: 50px ; 
+}
+
+.radiantbby{
+	border-radius: 5%;
+}
+
+.navtxt{
+	margin-top: 20px;
+	font-size: 25px;
+}
+
+#bsm{
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+#lastcatgory{
+	margin-bottom: 10%;
+}
+
+.owl-carousel .owl-dots {
+    text-align: center;
+}
+.owl-carousel .owl-dot {
+    height: 11px;
+    width: 11px;
+    border: 2px solid #a49fba !important;
+    border-radius: 50%;
+    margin: 35px 6px;
+}
+.owl-carousel .owl-dot.active {
+    background-color: #ED1153;
+    border: 0 !important;
+}
+
+.small-btn{
+	height:100%;
+	width: 40%;
 }
