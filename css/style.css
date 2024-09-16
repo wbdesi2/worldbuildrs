@@ -28,6 +28,10 @@ header h1 {
 	background-color: #09090a;
 }
 
+#articulo h3{
+	font-weight: 600;
+}
+
 #latest h1 {
 	text-align: center;
 	color: #FFFFFF;
@@ -75,11 +79,15 @@ hr{
 margin-top: -70px;
 }
 .negro p{
-	background-color: #000000;
 	color: #FFFFFF;
-	padding: 20px 5px;
 	text-align: center;
 }
+
+footer {
+	background-color: #000000;
+	padding: 20px 5px;
+}
+
 #Name {
 	padding-top: 5%;
 	padding-bottom: 2%;
@@ -95,6 +103,8 @@ margin-top: -70px;
 
 .azulito{
 	color: #116C78;
+	font-weight: 500;
+	
 }
 
 .gris{
@@ -108,13 +118,15 @@ margin-top: -70px;
 }
 
 .parrafobio {
-	font-size: 190%;
-	word-spacing: 5px;
+	font-size: 150%;
 	text-align: justify;
+	font-weight: 600;
+	color: #4B4747;
 }
 
-.parrafobio p{
-	font-weight: bolder;
+.text-center{
+	font-weight: 700;
+	color: #4B4747;
 }
 
 .rojito {
@@ -145,6 +157,13 @@ margin-top: -70px;
 	text-align: center;
 }
 
+#KH-P h1{
+	margin: 40px 0; 
+    display: inline-block; 
+	font-size: 25px;
+	font-weight: 700;
+}
+
 h4 {
 font-size: 16px;
 }
@@ -173,7 +192,8 @@ h4{
 	border-radius: 20px;
 }
 
-.radiant { margin: center
+.radiant {
+	margin: center
 }
 
 
@@ -233,6 +253,51 @@ h4{
 	margin-bottom: 10%;
 }
 
+.ATI{
+	border-radius: 20px;
+}
+
+.PAI{
+	border-radius: 20px;
+}
+
+.margen-superior p{
+	font-weight: 600;
+	color: #191919;
+}
+
+#artbanner {
+	background-color: #140505;
+	margin: 0% 0%;
+}
+	
+#artbanner h1{
+	color: #FEDE0F;
+	margin-left: 2%;
+	font-weight: 700;
+}
+
+#artbanner h2{
+	color: #fff;
+	margin-left: 2%;
+	padding-bottom: 1%;
+	font-weight: 600;
+}
+
+#articulopar1{
+	padding-top: 3%;
+	background-color: #EFEFEF;
+}
+
+#articulopar2{
+	background-color: #EFEFEF;
+}
+
+#articulopar3{
+	background-color: #EFEFEF;
+	padding-bottom: 5%
+}
+
 .owl-carousel .owl-dots {
     text-align: center;
 }
@@ -251,4 +316,72 @@ h4{
 .small-btn{
 	height:100%;
 	width: 40%;
+}
+
+#head-tittle{
+	
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#head-tittle h2{
+	color: #116C78;
+	font-weight: bolder;
+}
+
+#listaurbano img{
+	width: 100%;
+	
+	align-content: center
+}
+#listaurbano h3{
+	font-weight: bolder;
+	color: #605D5C;
+    
+}
+#listaurbano h4{
+	font-weight: bolder;
+    
+}
+
+
+#listaurbano{
+	 
+	margin-top: 20px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+ 
+}
+
+textarea {
+  padding: 20px; 
+}
+
+#formsubm {
+	margin-bottom: 80px;
+}
+
+#envsli h1, h4 {
+	color: #4B4747;
+	font-weight: 700;
+	
+}
+
+#envsli {
+	padding: 20px 0px;
+}
+#listaart h4 {
+	text-align: justify;
+	font-size: 175%;
+	font-weight: 300;
+	
+}
+
+#head-tittle h4 {
+	font-size: 175%;
+	font-weight: 500;
+}
+
+#listaart {
+	padding: 50px 0px;
 }
